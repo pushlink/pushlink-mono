@@ -1,0 +1,6 @@
+/Users/celiovasconcelos/Projects/PushLinkMono/PushLinkMono/obj/Release/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/celiovasconcelos/Projects/PushLinkMono/PushLinkMono/obj/Release/PushLinkMono.Jars.PushLinkAndroid-5.0.3.jar
+/Users/celiovasconcelos/Projects/PushLinkMono/PushLinkMono/bin/Release/PushLinkMono.dll.mdb
+/Users/celiovasconcelos/Projects/PushLinkMono/PushLinkMono/bin/Release/PushLinkMono.dll
+/Users/celiovasconcelos/Projects/PushLinkMono/PushLinkMono/obj/Release/PushLinkMono.dll
+/Users/celiovasconcelos/Projects/PushLinkMono/PushLinkMono/obj/Release/PushLinkMono.dll.mdb
