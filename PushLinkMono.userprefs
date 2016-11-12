@@ -1,8 +1,9 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.LowMem" />
+﻿<Properties StartupConfiguration="{CA44782B-5C6A-4968-87BC-D66D00DDAFE8}|Default">
   <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PushLinkMono PreferredExecutionTarget="Android.BY900B843J" />
 </Properties>
