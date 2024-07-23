@@ -1,5 +1,5 @@
-<metadata>
-	<!--
+﻿<metadata>
+  <!--
   This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
   
@@ -10,9 +10,9 @@
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='DAO']" />
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='DAO.ExceptionMsg']" />
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Base64']" />
-	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Base64.Encoder']" />		
-	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Base64.Coder']" />		
-	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Base64.Decoder']" />		
+	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Base64.Encoder']" />
+	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Base64.Coder']" />
+	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Base64.Decoder']" />
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='DownloadHandler']" />
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='ExceptionHandler']" />
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='ExceptionHandler.1']" />
@@ -20,5 +20,5 @@
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='TcpHandler']" />
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Configuration']" />
 	<remove-node path="/api/package[@name='com.pushlink.android']/class[@name='Screenshot']" />
-
+	
 </metadata>

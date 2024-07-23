@@ -1,4 +1,7 @@
-# pushlink-mono
-Xamarin project to build a [pushlink](https://www.pushlink.com) dll wrapper
+# Visual Studio Java Android Library Binding Project
 
-[Xamarin docs](https://developer.xamarin.com/guides/android/advanced_topics/binding-a-java-library/binding-a-jar)
+It generates the Pushlink's official DLL wrapper `PushLinkMono.dll`
+
+It was previously a Xamarin project and has now migrated to Visual Studio.
+
+See our [sample project](https://github.com/pushlink/pushlink-mono-sample) using the DLL.
